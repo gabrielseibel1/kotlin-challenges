@@ -8,10 +8,6 @@ Two submatrices (x1, y1, x2, y2) and (x1', y1', x2', y2') are different if they 
 ## Objective
 Given a matrix, and a target, return the number of non-empty submatrices that sum to target.
 
-
-
- 
-
 ### Example 1:
 ```
 Input: matrix = [[0,1,0],[1,1,1],[0,1,0]], target = 0
